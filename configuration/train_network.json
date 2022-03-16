@@ -1,0 +1,52 @@
+[
+  {
+    "name": "A",
+    "forks": null,
+    "train_color": "WITHOUT COLOR"
+  },
+  {
+    "name": "B",
+    "forks": null,
+    "train_color": "WITHOUT COLOR"
+  },
+  {
+    "name": "C",
+    "forks":  [
+      [
+        {
+          "name": "D",
+          "forks": null,
+          "train_color": "WITHOUT COLOR"
+        },
+        {
+          "name": "E",
+          "forks": null,
+          "train_color": "WITHOUT COLOR"
+        }
+      ],
+      [
+        {
+          "name": "G",
+          "forks": null,
+          "train_color": "GREEN"
+        },
+        {
+          "name": "H",
+          "forks": null,
+          "train_color": "RED"
+        },
+        {
+          "name": "I",
+          "forks": null,
+          "train_color": "GREEN"
+        }
+      ]
+    ],
+    "train_color": "WITHOUT COLOR"
+  },
+  {
+    "name": "F",
+    "forks": null,
+    "train_color": "WITHOUT COLOR"
+  }
+]
